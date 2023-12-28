@@ -1,3 +1,3 @@
-module github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind
+module github.com/ruskicrew/ruskicrew.github.io/modules/blox-tailwind
 
 go 1.19
