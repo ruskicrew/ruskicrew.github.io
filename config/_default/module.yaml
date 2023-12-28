@@ -5,5 +5,5 @@
 ############################
 
 imports:
-  - path: https://github.com/ruskicrew/ruskicrew.github.io/blox-plugin-netlify
-  - path: https://github.com/ruskicrew/ruskicrew.github.io/modules/blox-tailwind
+  - path: github.com/ruskicrew/ruskicrew.github.io/blox-plugin-netlify
+  - path: github.com/ruskicrew/ruskicrew.github.io/modules/blox-tailwind
