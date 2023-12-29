@@ -33,7 +33,8 @@ sections:
       background:
         image:
           # Add your image background to `assets/media/`.
-          filename: bg-triangles.svg
+          # filename: bg-triangles.svg
+          filename: home-hero.webp
           filters:
             brightness: 0.5
   - block: features
