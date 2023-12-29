@@ -10,15 +10,15 @@ design:
 sections:
   - block: hero
     content:
-      title: Build Your Landing Pages with Hugo Blox
-      text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
+      title: Complex Networks, Simplified.
+      text: Deploy a flexible private network in minutes.
       primary_action:
-        text: Get Started
-        url: https://hugoblox.com/templates/
+        text: Sign up
+        url: https://portal.megaport.com/signup
         icon: rocket-launch
       secondary_action:
-        text: Read the docs
-        url: https://docs.hugoblox.com
+        text: Book a demo
+        url: https://www.megaport.com/demo/
       announcement:
         text: Announcing the release of version 1.
         link:
