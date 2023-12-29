@@ -8,6 +8,8 @@ appearance:
   mode: light
   color: indigo
 
+i_am_a_sponsor: true
+
 # SEO
 marketing:
   seo:
